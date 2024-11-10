@@ -4,6 +4,7 @@ This is a Python implementation for the Kaggel Dataset Credit Card Fraud Detecti
 **Note:** The code was developed in the Google Colab and then the ipynb file is imported here. So, there are NOT many commits available showing progress.
 
 **The dataset link:** https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset
+
 **Team Members:** 
  - Rahul Varna (rahulvarna@iisc.ac.in),
  - Vikash Kumar (vikashkumar3@iisc.ac.in),
