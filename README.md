@@ -10,6 +10,7 @@ This is a Python implementation for the Kaggel Dataset Credit Card Fraud Detecti
  - Aditya Prasad (adityaprasa1@iisc.ac.in)
 
 **Problem Statement:** To identify the fraudulent credit card transactions on the Kaggel Dataset credit_card_transactions.csv
+
 **Why is it important:** Because fraudulent transactions are big financial risk for the Consumers as well as Credit Card Companies itself. 
 It is in best interest for the consumer and company to identify such transaction in timely and accurate manners.
 
@@ -27,5 +28,5 @@ It is in best interest for the consumer and company to identify such transaction
    - Multivariate Analysis
      - EDA using dataprep
  - Data Pre-processing
- - Model Development and Validation (TBD)
- - Plotting Graphs (TBD) 
+ - Model Development and Validation (**TBD**)
+ - Plotting Graphs (**TBD**) 
