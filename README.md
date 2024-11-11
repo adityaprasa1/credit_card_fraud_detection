@@ -32,7 +32,7 @@ It is in best interest for the consumer and company to identify such transaction
    - Univariate Analysis
    - Bi-variate Analysis
    - Multivariate Analysis
-     - EDA using dataprep
+     - EDA using dataprep (**Note: In this section, graphs are not visible after uploading to Github. But they are visible when used in Google Colab**)
  - Data Pre-processing
  - Model Development and Validation (**TBD**)
  - Plotting Graphs (**TBD**) 
