@@ -34,5 +34,5 @@ It is in best interest for the consumer and company to identify such transaction
    - Multivariate Analysis
      - EDA using dataprep (**Note: In this section, graphs are not visible after uploading to Github. But they are visible when used in Google Colab**)
  - Data Pre-processing
- - Model Development and Validation (**TBD**)
- - Plotting Graphs (**TBD**) 
+ - Model Development and Validation
+ - Plotting Graphs for the Outputsa and comparison
